@@ -1,6 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
-## AIM:akbar.I
-## ALGORITHM:212224230014
+## AIM
+## ALGORITHM:
 1. Start the program.
 2. Get the frame size from the user
 3. To create the frame based on the user request.
@@ -10,8 +10,8 @@
 
 
 ```
-NAME: GURUPARAN G
-REG NO: 212224220030
+NAME: Akbar.I
+REG NO: 212224230014
 
 ```
 
@@ -61,5 +61,6 @@ while True:
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
+
 
 
